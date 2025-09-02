@@ -1,5 +1,5 @@
 body {
-	background-color: lightgoldenrodyellow;
+	background-color: forestgreen;
 }
 #intro, #end {
 	background-color: #b4b4b4;
@@ -10,7 +10,9 @@ body {
 	padding-bottom: 20px;
 	font-family: "Open Sans", sans-serif;
 }
-
+h1 {
+	border: 2px lightseagreen dotted;
+}
 section {
 	height: 600px;
 	text-align: center;
