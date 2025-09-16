@@ -1,5 +1,5 @@
 body {
-	background-color: forestgreen;
+	background-color: lightgoldenrodyellow;
 }
 #intro, #end {
 	background-color: #b4b4b4;
@@ -11,10 +11,10 @@ body {
 	font-family: "Open Sans", sans-serif;
 }
 h1 {
-	border: 2px lightseagreen dotted;
+
 }
 section {
-	height: 600px;
+	/*height: 600px;*/
 	text-align: center;
 	font-size: 24px;
 	font-family: "Montserrat", sans-serif;
