@@ -1,10 +1,27 @@
 /*This is the CSS page for our final template.*/
 
-p{
-	font-family:'Times New Roman'serif;
-	font-size: 20px;
-	
+body {
+	font-family:'Poppins', serif;
+	font-size: 17px;
+}
 
+.caption p{
+	font-size: 15px;
+	text-align: center;
+}
+
+p{
+	font-family:'Poppins', serif;
+	font-size: 20px;
+
+
+}
+
+.image-row {
+  display: flex;
+  justify-content: center; 
+  gap: 20px;            
+}
 }
 
 
@@ -17,26 +34,19 @@ p{
 .header {
 	height: auto;
 	font-weight: bold;
-	font-size: 50px;
+	font-size: 35px;
 	text-align: center;
-	font-family: 'Georgia', serif;
+	font-family: 'Poppins', serif;
 	color:#4E5340;
 	background-color: #B7D1DA;
-
-
-
-.img {
-	float: right;
-	margin-right: 5%;
-	margin-left: 5%;
-}
+	margin-left: 8px;
+	margin-right: 8px;
 
 	
 }
 h4 {
-	font-style: italic;
-	font-size: 40px;
-	font-family: 'Georgia', serif;
+	font-size: 25px;
+	font-family: 'Poppins', serif;
 }
 h3 {
 	font-size: 30px;
